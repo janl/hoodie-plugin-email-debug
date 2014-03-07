@@ -7,5 +7,5 @@
     "test": "grunt"
   },
   "author": "Jan Lehnardt <jan@apache.org>",
-  "license": "Apache 2 License"
+  "license": "Apache 2 License",
 }
